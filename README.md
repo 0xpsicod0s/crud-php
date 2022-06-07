@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Descrição</h2>
-<p>Esse projeto cria, lista, exclui e atualiza contatos com nome, número de telefone e email</p>
+<p>Esse projeto foi desenvolvido com PHP procedural, ele cria, lista, exclui e atualiza contatos com nome, número de telefone e email</p>
 
 <h2 align="center">Funcionalidades</h2>
 
