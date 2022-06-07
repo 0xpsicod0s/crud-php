@@ -18,6 +18,7 @@
 
 - 🐘 PHP
 - 🎲 MySQL
+- ✏️ Materialize CSS
 
 <h4 align="center">
   :heavy_check_mark: Projeto concluído :heavy_check_mark:
